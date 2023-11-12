@@ -166,6 +166,50 @@ Some carboard tracing and experimentation showed me it was possible to have a pi
 
 ![images/seal-sawstop/20231028_151247.jpg]({{site.baseurl}}/Cardboard trace)
 
+For the recruiters: I used rapid iteration with a cost-effective prototype to find a right-sized solution that addressed all of the client's edge cases. I was able to scale the solution to a production-ready product that was more robust than the prototype with minimal investment. Achieved 100% client satisfaction with 0 user complaints.
+
+For the engineers: I played with cardboard until it worked, then repeated with thicker, stronger cardboard.
+
+![Foam installed]({{site.baseurl}}/images/seal-sawstop/20231028_151928.jpg)
+
+Put the foam on.
+
+![Test cardboard fit]({{site.baseurl}}/images/seal-sawstop/20231028_152237.jpg)
+
+Tested with carboard.
+
+![Fiberboard with coping saw]({{site.baseurl}}/images/seal-sawstop/20231028_161841.jpg)
+
+Cut out fiberboard with a coping saw.
+
+![Final fit at 0]({{site.baseurl}}/images/seal-sawstop/20231028_163324.jpg)
+
+The fiberboard installed at 0 degrees tilt.
+
+![images/seal-sawstop/20231028_163352.jpg]({{site.baseurl}}/Final fit at 45)
+
+Fiberboard installed at 45 degrees tilt. I put a knick in the end because I didn't carefully align the cover as I changed the angle, and it slipped and dug into a corner.
+
+Which lead me to the next problem: Avoiding floppiness. Nobody wants floppyness.
+
+I had scrap wood laying around, and tape! Needed a flat thin-ish (metric) face to tape, and some edge to keep the cover in place.
+
+![Bridge sketch]({{site.baseurl}}/images/seal-sawstop/20231031_200740.jpg)
+
+Or, maybe a whole bridge. Easy enough, I have a table saw after all.
+
+![Bridges cut out]({{site.baseurl}}/images/seal-sawstop/20231031_202007.jpg)
+
+Cut out with multiple passes using the miter gauge and my eyes (not as painful as it sounds).
+
+![Bridges mounted]({{site.baseurl}}/images/seal-sawstop/20231031_204921.jpg)
+
+Mounted with the always-handy tape. I should buy some magnets, those would be way cooler.
+
+
+# INSERT GIF HERE
+
+It works pretty well
 
 
 
