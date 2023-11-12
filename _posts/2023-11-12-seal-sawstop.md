@@ -9,14 +9,13 @@ Almost immediately after making a few cuts with my new saw, I started to think a
 
 [https://www.shophacks.com/tablesawdustcollection.html](https://www.shophacks.com/tablesawdustcollection.html)
 
-# Problems
+# Dealing with the wide open back
 
-## Wide open back
 The back of the saw is wide open. The motor tilts and adjusts up and down. This moves the belts. Sealing this with some kind of flat panel would have to allow for all types of motion without adding any extra work, or I would get quickly annoyed.
 
 ![Back of sawstop contractor saw with blade at 45]({{site.baseurl}}/images/seal-sawstop/20230919_230943.jpg)
 
-### Solution: big box. With an outfeed table extension.
+## Solution: big box. With an outfeed table extension.
 
 One drawback of the sawstop contractor saw is that the motor hangs off the back, which adds to the overall space it takes up. If the space is lost anyway, I might as well extend the table to use that space.
 
@@ -75,6 +74,58 @@ This took over 24 hours to dry. Probably not structural but it makes me feel bet
 
 Shaved and sanded flush.
 
+### Box frame
+
+To enclose the motor, a box seemd like the simplest solution. It would have to enclose the motor through the range of tilt angles.
+
+The bottom of the box to sit slightly below the saw body, which means I would have to deal with the angled legs.
+
+The motor extends well past the saw body on the right side, so a box would have to extend past and wrap back around. Because the bottom reaches below the saw body, the angled legs show up on this face.
+
+The left side of the box could potentially be coplanar with the left side of the saw body, but the mounting options there were limited because of the existing bolts.
+
+To address all of these problems, the easist way I could think of was to create a frame that sits shy of the saw and lets me mount some 1/8" stock and cope it against all of the saw's angles. Much easier to be precise with some leftover cardboard stock than thicker wood.
+
+![left and right side of frame before assembly]({{site.baseurl}}/images/seal-sawstop/20231024_224143.jpg)
+
+The side closer to the saw is thicker so I could leave a lip to mount it to the frame rail board.
+
+![Frame assembled upside-down]({{site.baseurl}}/images/seal-sawstop/20231025_202940.jpg)
+
+Pocket screws were my answer to joinery here.
+
+![frame mounted]({{site.baseurl}}/images/seal-sawstop/20231025_205003.jpg)
+
+![Frame mounted from right]({{site.baseurl}}/images/seal-sawstop/20231025_205014.jpg)
+
+![Frame mounted from left]({{site.baseurl}}/images/seal-sawstop/20231025_205046.jpg)
+
+![Gap between saw body and frame on bottom]({{site.baseurl}}/images/seal-sawstop/20231025_205130.jpg)
+
+![Frame from right side facing back]({{site.baseurl}}/images/seal-sawstop/20231025_205159.jpg)
+
+Now to sew it up with leftover thin fiberboard material.
+
+![Scrap fiberboard]({{site.baseurl}}/images/seal-sawstop/20231025_215502.jpg)
+
+Left side coped out
+
+![Left side coped out]({{site.baseurl}}/images/seal-sawstop/20231025_234724.jpg)
+
+Bottom coped out
+
+![Bottom coped out]({{site.baseurl}}/images/seal-sawstop/20231026_203648.jpg)
+
+![bottom from below coped out]({{site.baseurl}}/images/seal-sawstop/20231026_203701.jpg)
+
+![Saw angled to show clearance]({{site.baseurl}}/images/seal-sawstop/20231027_173611.jpg)
+
+To fully seal the gaps, needed to use caulk or tape. I chose tape. Everyone knows my caulk skills are limited.
+
+![images/seal-sawstop/20231027_172824.jpg]({{site.baseurl}}/tape)
+
+I've had this tape forever, it's pretty sturdy. Covered up all of the visible gaps from the inside where the fiberboard meets the saw.
+
 ### Plywood surface
 
 I had some plywood scrap but not long enough for the full width. So I went ahead and ripped the sheet the wrong direction and immediately face-palmed. The grain was running perpendicular to the cutting direction, which probably adds some friction.
@@ -94,11 +145,30 @@ This also shows some reinforcement I carefully added from scraps using glue and 
 My carefully added scraps caused two problems later: clearance when sitting in my frame, and clearance with the box enclosure I added later. Both problems were solved with a hand saw and chisel. Hinsight, should have added these at the end.
 
 
+# Open height adjustment knob and tilt angle indicator
+
+This knob adjusts the height of the saw, and moves side to side to indicate the angle. Others solved this problem with magnets and acrylic, but I'm cheap and don't have either of those. I also wanted this to be a zero-effort solution when using the saw, so moving a piece when adjusting the angle was right out.
+
+The angle indicator is slightly useful despite its limited accuracy, so I wanted to keep it that way.
+
+![saw stop contractor front height adjustment and angle indicator]({{site.baseurl}}/images/seal-sawstop/20230919_231504.jpg)
 
 
-1. Open front
-    ![saw stop contractor front height adjustment and angle indicator]({{site.baseurl}}/images/seal-sawstop/20230919_231504.jpg)
-    1. This knob adjusts the height of the saw, and moves side to side to indicate the angle.
+I had this foam window seal that didn't work for the reason I bought it.
+
+![window foam]({{site.baseurl}}/images/seal-sawstop/20231028_151402.jpg)
+
+But it fit under the angle indicator with a couple washers added to offset.
+
+![Angle indicator over foam]({{site.baseurl}}/images/seal-sawstop/20231028_151340.jpg)
+
+Some carboard tracing and experimentation showed me it was possible to have a piece attached to the knob that fully covered the gap at both 0 and 45.
+
+![images/seal-sawstop/20231028_151247.jpg]({{site.baseurl}}/Cardboard trace)
+
+
+
+
 1. Open bottom
     1. The entire bottom is open.
     1. Has the original dust collection shroud with 4" hose connector protruding about 1" below the leg/saw body attachment.
