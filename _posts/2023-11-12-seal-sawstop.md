@@ -211,6 +211,34 @@ Mounted with the always-handy tape. I should buy some magnets, those would be wa
 
 It works pretty well
 
+# Bottom
+
+There's still a gaping hole here, which is the entire bottom of the saw.
+
+Seems easy, just cut a square piece and put it in there.
+
+But the blade shroud gets in the way. There's a nice big warning saying not to remove it, so I'll listen this time. Also I don't want to figure out what to do with it if I do remove it.
+
+So we need a bottom, but lower.
+
+I built a frame. cut the outside edge at the same angle as the legs, and mitered the corners at 45. The legs are at a 10 degree angle, found with my super-accurate plastic protractor.
+
+![Bottom frame]({{site.baseurl}}/images/seal-sawstop/20231029_202504.jpg)
+
+This conveniently lines up with this hole. I don't know what it's for but I'll take it. Still had to drill through the sheet metal but that was fairly quick.
+
+![Leg hole]({{site.baseurl}}/images/seal-sawstop/20231029_202543.jpg)
+
+Attached with a door hinge screw.
+
+For positioning, I had to move my frame to touch the bottom bolt to give me enough clearance for the dust shroud.
+
+Next is the bottom face, mocked up with cardboard to get the measurements. Getting a tape measure in there was really annoying.
+
+![Cardboard bottom mount]({{site.baseurl}}/images/seal-sawstop/20231029_203628.jpg)
+
+Can you guess what I recently purchased?
+
 
 
 1. Open bottom
