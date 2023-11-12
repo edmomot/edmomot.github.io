@@ -1,3 +1,3 @@
 # Jekyll Now
 
-Website built with [https://github.com/barryclark/jekyll-now](jekyll-now)
+Website built with [jekyll-now](https://github.com/barryclark/jekyll-now)
