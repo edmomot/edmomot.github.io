@@ -64,7 +64,7 @@ I used a roughly 1.5"x1.5" board to stretch across the back. This is where a pro
 
 ![Lag bolt from left to rear outer. Also knot in wood.]({{site.baseurl}}/images/seal-sawstop/20231023_164232.jpg)
 
-Because I can't admit my mistake and cut another one, I charged forward and reinforced with a second block between the long boards using pocket screws. I also packed the knot with wood glue and sawdust, thinking it's better than nothing, but realistically probably adds 0.5% strength.
+Because I couldn't possibly admit my mistake and cut another one, I charged forward and reinforced with a second block between the long boards using pocket screws. I also packed the knot with wood glue and sawdust, thinking it's better than nothing, but realistically probably adds 0.5% strength.
 
 ![Knot filled with glue]({{site.baseurl}}/images/seal-sawstop/20231023_174718.jpg)
 
