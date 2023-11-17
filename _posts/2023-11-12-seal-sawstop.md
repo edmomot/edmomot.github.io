@@ -35,7 +35,7 @@ On the left side, I cut a board to sit flush with the table (more extension!) wi
 
 ![table saw left side with extension board cut]({{site.baseurl}}/images/seal-sawstop/20231023_112922.jpg)
 
-Drilled some holes for bolts and used a forstener bit to recess the bolt head to be flush with the surface.
+Drilled some holes for bolts and used a forstner bit to recess the bolt head to be flush with the surface.
 
 ![table saw left side extension board with holes drilled]({{site.baseurl}}/images/seal-sawstop/20231023_113633.jpg)
 
@@ -136,9 +136,9 @@ The next problem is that at 45, the motor bumps into the bottom of this face.
 
 ![Motor does not clear the bottom of the plywood surface]({{site.baseurl}}/images/seal-sawstop/20231024_183503.jpg)
 
-A Forstener bit and a chisel solved this.
+A Forstner bit and a chisel solved this.
 
-![motor clearance problem solved with forstener bit and chisel]({{site.baseurl}}/images/seal-sawstop/20231024_194548.jpg)
+![motor clearance problem solved with forstner bit and chisel]({{site.baseurl}}/images/seal-sawstop/20231024_194548.jpg)
 
 This also shows some reinforcement I carefully added from scraps using glue and brads. The grooves I cut for the miter slot felt too thin and weak.
 
