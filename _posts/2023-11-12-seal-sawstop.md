@@ -213,10 +213,11 @@ Cut out with multiple passes using the miter gauge and my eyes (not as painful a
 
 Mounted with the always-handy tape. I should buy some magnets, those would be way cooler.
 
+![Adjusting blade angle]({{site.baseurl}}/images/seal-sawstop/adjusting-angle.gif)
 
-# INSERT GIF HERE
+![Adjusting blade height]({{site.baseurl}}/images/seal-sawstop/adjusting-height.gif)
 
-It works pretty well
+It works pretty well!
 
 # Top edge of table saw body and cast iron table
 
