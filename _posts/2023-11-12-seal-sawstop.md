@@ -291,6 +291,8 @@ The outfeed table definitely works. Even the extra foot helps when cutting a pie
 
 The dust collection works, and keeps most of the dust contained. Some still spills out toward me from the top of the blade.
 
+I used a harbor freight shop vac ($90 with coupon) and a dustopper ($60) on an old bucket. Only complaint is the volume.
+
 I did run into the issue identified on the shophacks website where the airflow is too restricted, sawdust builds up in the air inside the body, and gets spit out the throat plate. This happened when I made a 2-3 inch thick rip of a 3ft board. I drilled two holes in the back of the box near the motor to add some cooling fresh air for the motor to avoid overheating. This should also keep the dust concentration down. Will drill more if necessary.
 
 I'll keep an eye out for sawdust buildup in the body, I noticed some, but it might stay constant once a certain amount piles up.
