@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-# How I sealed a sawstop contractor saw for dust collection
-
 # Inspiration
 
 Almost immediately after making a few cuts with my new saw, I started to think about how to minimize the mess. I found this website that claims effective dust collection can be done by sealing the saw to direct airflow through the blade guard instead of every exposed opening.
@@ -305,4 +303,3 @@ I'll keep an eye out for sawdust buildup in the body, I noticed some, but it mig
 ![Saw side complete]({{site.baseurl}}/images/seal-sawstop/20231031_211745.jpg)
 
 The table saw takes up exactly the same amount of space as before, but has a few new features.
-
