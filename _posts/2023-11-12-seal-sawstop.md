@@ -124,7 +124,7 @@ I attached the fiberboard to the frame with a generous amount of brads left over
 
 To fully seal the gaps, needed to use caulk or tape. I chose tape. Everyone knows my caulk skills are limited.
 
-![images/seal-sawstop/20231027_172824.jpg]({{site.baseurl}}/tape)
+![Tape]({{site.baseurl}}/images/seal-sawstop/20231027_172824.jpg)
 
 I've had this tape forever, it's pretty sturdy. Covered up all of the visible gaps from the inside where the fiberboard meets the saw.
 
@@ -171,7 +171,7 @@ But it fit under the angle indicator with a couple washers added to offset.
 
 Some carboard tracing and experimentation showed me it was possible to have a piece attached to the knob that fully covered the gap at both 0 and 45.
 
-![images/seal-sawstop/20231028_151247.jpg]({{site.baseurl}}/Cardboard trace)
+![Cardboard trace]({{site.baseurl}}/images/seal-sawstop/20231028_151247.jpg)
 
 For the recruiters: I used rapid iteration with a cost-effective prototype to find a right-sized solution that addressed all of the client's edge cases. I was able to scale the solution to a production-ready product that was more robust than the prototype with minimal investment. Achieved 100% client satisfaction with 0 user complaints.
 
