@@ -151,6 +151,8 @@ This also shows some reinforcement I carefully added from scraps using glue and 
 
 My carefully added scraps caused two problems later: clearance when sitting in my frame, and clearance with the box enclosure I added later. Both problems were solved with a hand saw and chisel. Hinsight, should have added these at the end.
 
+I gave the plywood a generous couple coats of paste wax, and that makes it smooth enough despite cutting the grain the wrong way.
+
 
 # Open height adjustment knob and tilt angle indicator
 
