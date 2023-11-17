@@ -193,7 +193,7 @@ Cut out fiberboard with a coping saw.
 
 The fiberboard installed at 0 degrees tilt.
 
-![images/seal-sawstop/20231028_163352.jpg]({{site.baseurl}}/Final fit at 45)
+![Final fit at 45]({{site.baseurl}}/images/seal-sawstop/20231028_163352.jpg)
 
 Fiberboard installed at 45 degrees tilt. I put a knick in the end because I didn't carefully align the cover as I changed the angle, and it slipped and dug into a corner.
 
