@@ -1,6 +1,8 @@
 ---
 published: true
 ---
+To reduce dust in my garage, I sealed my table saw and attached a shop vac with a bucket cyclone. Sealing the saw redirects the shop vac's limited airflow to where it's needed most: the throat plate. This makes the shop vac a reasonable alternative to an expensive and bulky dust collector. In the process I also extended the outfeed table to make rip cuts safer and easier.
+
 # Inspiration
 
 Almost immediately after making a few cuts with my new saw, I started to think about how to minimize the mess. I found this website that claims effective dust collection can be done by sealing the saw to direct airflow through the blade guard instead of every exposed opening.
