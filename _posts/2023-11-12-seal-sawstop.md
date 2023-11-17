@@ -120,11 +120,18 @@ Bottom coped out
 
 ![Saw angled to show clearance]({{site.baseurl}}/images/seal-sawstop/20231027_173611.jpg)
 
+I attached the fiberboard to the frame with a generous amount of brads left over from another project.
+
 To fully seal the gaps, needed to use caulk or tape. I chose tape. Everyone knows my caulk skills are limited.
 
 ![images/seal-sawstop/20231027_172824.jpg]({{site.baseurl}}/tape)
 
 I've had this tape forever, it's pretty sturdy. Covered up all of the visible gaps from the inside where the fiberboard meets the saw.
+
+Sealing up the back was the last step. I added a support lip at the top to keep the fiberboard sheet from bending in. Then four screws so I could easily remove this to access the motor and body.
+
+![Back installed with screws]({{site.baseurl}}/images/seal-sawstop/20231031_182510.jpg)
+
 
 ### Plywood surface
 
@@ -211,6 +218,23 @@ Mounted with the always-handy tape. I should buy some magnets, those would be wa
 
 It works pretty well
 
+# Top edge of table saw body and cast iron table
+
+## Left and right
+
+Tape bridged the gap betweeen the saw body and the raised edge mated with the wings.
+
+## Front
+
+Irregular shape, and bigger gap.
+
+![Top gap between saw body and table]({{site.baseurl}}/images/seal-sawstop/20231028_130311.jpg)
+
+Coped out another piece of fiberboard
+
+![Top gap covered with coped fiberboard]({{site.baseurl}}/images/seal-sawstop/20231028_130338.jpg)
+
+
 # Bottom
 
 There's still a gaping hole here, which is the entire bottom of the saw.
@@ -239,15 +263,34 @@ Next is the bottom face, mocked up with cardboard to get the measurements. Getti
 
 Can you guess what I recently purchased?
 
+Recreated in fiberboard
+
+![Bottom fit with fiberboard]({{site.baseurl}}/images/seal-sawstop/20231029_204326.jpg)
+
+Then I 3d printed a hose adapter, cut out a hole as neatly as I could, and screwed it in.
+
+![3d printed bottom hose adapter]({{site.baseurl}}/images/seal-sawstop/20231029_204326.jpg)
+
+![3d printed hose adapter flipped]({{site.baseurl}}/images/seal-sawstop/20231031_181502.jpg)
+
+At this point I realized I didn't leave enough clearance for the blade dust collection shroud. Had to go back and move the frame downward, and also trim about a quarter inch off the very bottom of the shroud with some snips.
+
+## Miscellaneous gaps
+
+## Switch wires
+
+Wrapped with tape
+
+## Gap between saw body and legs
+
+Wrapped with tape
+
+# Conclusion
+
+The outfeed table definitely works. Even the extra foot helps when cutting a piece over two feet long. I don't have to crank down on it to keep it from falling off the back. For longer cuts I still use an outfeed roller. An 8ft outfeed table would be best of course, but I need to use my space carefully.
+
+The dust collection works, and keeps most of the dust contained. Some still spills out toward me from the top of the blade.
+
+I did run into the issue identified on the shophacks website where the airflow is too restricted, sawdust builds up in the air inside the body, and gets spit out the throat plate. This happened when I made a 2-3 inch thick rip of a 3ft board. I drilled two holes in the back of the box near the motor to add some cooling fresh air for the motor to avoid overheating. This should also keep the dust concentration down. Will drill more if necessary.
 
 
-1. Open bottom
-    1. The entire bottom is open.
-    1. Has the original dust collection shroud with 4" hose connector protruding about 1" below the leg/saw body attachment.
-1. Open left and right edges
-    1. Very close to the wing attachment edge, easily bridged with tape
-1. Open front edge
-    1. Irregular shape, no easy bridge to tape
-1. Switch wires
-    1. Small hole on the left side of the saw
-1. Gap in attachment between saw body and legs
