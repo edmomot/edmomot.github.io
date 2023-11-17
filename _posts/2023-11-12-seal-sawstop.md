@@ -270,7 +270,7 @@ Recreated in fiberboard
 
 Then I 3d printed a hose adapter, cut out a hole as neatly as I could, and screwed it in.
 
-![3d printed bottom hose adapter]({{site.baseurl}}/images/seal-sawstop/20231029_204326.jpg)
+![3d printed bottom hose adapter]({{site.baseurl}}/images/seal-sawstop/20231031_181457.jpg)
 
 ![3d printed hose adapter flipped]({{site.baseurl}}/images/seal-sawstop/20231031_181502.jpg)
 
