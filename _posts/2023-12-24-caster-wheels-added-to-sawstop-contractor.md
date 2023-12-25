@@ -5,19 +5,15 @@ My table saw needs to be mobile so I can put it away against the wall when I'm n
 
 # My requirements
 
-I needed the saw to spin in place, and to move forward and backwards so I could move it easily back against the wall.
+I needed the saw to spin in place, and to move forward and backwards so I could move it easily back against the wall. It should be quick and easy to move the saw in any direction, since different cuts need a different amount of space on each side.
 
-# Other options I considered
+# Products I considered first
 
 [Super Duty All-Swivel Mobile Base with Table Saw Extension Combo PM-3795](https://boratool.com/bora-pm-3795-all-swivel-mobile-base-with-table-saw-extension.html)
 * Full swivel. Expensive.
 
 [SawStop Contractor Saw Mobile Base MB-CNS-000](https://www.sawstop.com/product/contractor-saw-mobile-base-mb-cns-000/)
 * Only one side swivels, so I'd have to parallel park my table saw every time.
-
-# Why not buy the existing bases
-
-$$$
 
 # What I bought
 
