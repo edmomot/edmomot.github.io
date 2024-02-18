@@ -33,4 +33,30 @@ To make the shelves consistent, I created a box frame, cut spacers from scrap, a
 
 ![Spacers]({{site.baseurl}}images/plant-stand/20231007_124850.jpg)
 
+![Nail alignment jig]({{site.baseurl}}images/plant-stand/20231007_124901.jpg)
+
+The shelf came together with wood glue and brad nails.
+
+![Single shelf]({{site.baseurl}}images/plant-stand/20231007_125520.jpg)
+
+Now to make 13 more.
+
+Luckily this is a multi-core system and the IO-bound workload could be distributed across processors.
+
+![Helper]({{site.baseurl}}images/plant-stand/20231007_144253.jpg)
+
+After a few hours, we were ready for a forklift themed party.
+
+![Forklift themed party]({{site.baseurl}}images/plant-stand/Snapchat-239340556.jpg)
+
+## Finnish
+
+I'm not Finnish, I'm Ukrainian.
+
+## Finish
+
+Used minwax paste wax, applied with a rag before assembly. Tough to get into all of the corners. Applying finish before gluing the shelves together might have been easier, but I don't think the glue would hold.
+
+
+
 
