@@ -65,4 +65,13 @@ Used minwax paste wax, applied with a rag before assembly. Tough to get into all
 
 # LED Lighting
 
+Succulents typically want to be in full, hot desert sun for 10 hours per day. A window in the gloomy midwest doesn't come close. Lights are absolutely necessary to keep the plants from stretching and getting lanky.
+
+Grow lights aren't anything special. Purple lights only emit red and blue. There are some claims that this is more efficient, and that's all plants need, but I don't believe that. They get the full spectrum outside, they should be fine with full spectrum inside.
+
+I just wanted the brightest lights per dollar, and to make it look good on the shelf. Aliexpress LED strips are what I settled on.
+
+https://www.aliexpress.us/item/2251832514287343.html
+
+5630 5M IP30 WW
 
