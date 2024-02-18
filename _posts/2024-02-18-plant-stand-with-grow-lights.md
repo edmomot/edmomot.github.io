@@ -59,5 +59,10 @@ Used minwax paste wax, applied with a rag before assembly. Tough to get into all
 
 ![Completed shelf]({{site.baseurl}}images/plant-stand/20231007_211957.jpg)
 
+![Completed shelf close up]({{site.baseurl}}images/plant-stand/20231007_212004.jpg)
+
+![Loaded with plants]({{site.baseurl}}images/plant-stand/20231009_102631.jpg)
+
+# LED Lighting
 
 
