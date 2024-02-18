@@ -57,6 +57,7 @@ I'm not Finnish, I'm Ukrainian.
 
 Used minwax paste wax, applied with a rag before assembly. Tough to get into all of the corners. Applying finish before gluing the shelves together might have been easier, but I don't think the glue would hold.
 
+![Completed shelf]({{site.baseurl}}images/plant-stand/20231007_211957.jpg)
 
 
 
