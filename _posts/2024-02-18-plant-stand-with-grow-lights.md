@@ -75,3 +75,23 @@ https://www.aliexpress.us/item/2251832514287343.html
 
 5630 5M IP30 WW
 
+$10 for 5 meters. I bought too few, so I had to place a second order halfway through the project. Ended up using almost exactly 15 meters, so a total cost of $30 for the LEDs, plus a month of shipping/customs.
+
+## Attaching
+
+I started the project by using included adhesive backing. This was a mistake. The adhesive was nowhere near strong enough, and about half of the strips started falling off within two weeks.
+
+My next attempt was hot glue. I needed a hot glue gun for another project anyway. After a couple hours watching youtube reviews I bought the big one from harbor freight: https://www.harborfreight.com/high-temperature-full-size-glue-gun-68334.html
+
+If it breaks, then I'll consider the nicer ones.
+
+The hot glue actually went pretty well. I ran a bead down the entire line and pushed the LED strips down quickly.
+
+After a few months, I see one strip halfway off that I need to fix. Better success rate than the adhesive strips.
+
+
+## Wiring
+
+## Power supply
+
+
