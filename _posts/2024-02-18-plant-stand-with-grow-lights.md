@@ -127,8 +127,37 @@ But I can't think of a better way to get the same clean look.
 
 ![Shelf in place with lights on]({{site.baseurl}}images/plant-stand/20231230_092932.jpg)
 
-
+I had a spare mirror, so I put that behind the shelf to reflect even more light.
 
 ## Power supply
+
+I figured, LEDs are super efficient, throw 12v of whatever at them, should be fine. I was very wrong.
+
+This thing needs about 1.21 jigowatts to run.
+
+I went through the five stages of cheapskate grief.
+
+### Denial
+
+I bought a cheap power supply on amazon rated for 5 amps. The package arrived empty so that was a whole separate ordeal. I plugged it in, and it quickly overheated with only half the LEDs installed. Once overheated, the lights would flicker on and off about 2 times per second. Very annoying.
+
+### Anger
+
+Why is this happening to me? This power supply is garbage, Amazon has gone way downhill.
+
+### Bargaining
+
+I bought another cheap power supply, this time from eBay, rated for 10 amps. This would surely work. I'm only pulling 4 amps (I measured with a multimeter). Over double the capacity should be complete overkill.
+
+Nope. Overheated, but a little slower this time.
+
+### Depression
+
+I may have cried.
+
+### Acceptance
+
+So the $10 range doesn't cut it. I need to over the top. 
+
 
 
