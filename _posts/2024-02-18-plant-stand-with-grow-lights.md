@@ -40,7 +40,7 @@ The shelf came together with wood glue and brad nails.
 
 Now to make 13 more.
 
-Luckily this is a multi-core system and the IO-bound workload could be distributed across processors.
+Luckily this is a multi-core system and the CPU-bound workload could be distributed across processors.
 
 ![Helper]({{site.baseurl}}/images/plant-stand/20231007_144253.jpg)
 
