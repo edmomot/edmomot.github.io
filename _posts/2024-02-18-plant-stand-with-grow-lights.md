@@ -110,7 +110,7 @@ I ran out of LED strips halfway through, had to order more and wait a month for 
 
 To connect all of the shelves, I used heat shrink crimp butt connectors (hehe). By fitting two wires in each end, I created junctions of up to four directions: input, nearby shelf 1, nearby shelf 2, output.
 
-The entire assembly is wired in parallel, meaning the voltage is equal across all points. LED strips themselves are wired in parallel to a point. The solder connection points are all parallel, but the individual diodes are in series to drop the voltage to the correct amount. So the cut line is at 12V, but with 3 LEDs per cut section, each LED recieves 4V (looks like there's a resistor too).
+The entire assembly is wired in parallel, meaning the voltage is equal across all points. LED strips themselves are wired in parallel to a point. The solder connection points are all parallel, but the individual diodes are in series to drop the voltage to the correct amount. So the cut line is at 12V, but with 3 LEDs per cut section, each LED receives 4V (looks like there's a resistor too).
 
 ![Wiring harness junction]({{site.baseurl}}/images/plant-stand/20231229_142023.jpg)
 
@@ -160,7 +160,7 @@ I may have cried.
 
 So the $10 range doesn't cut it. I need to go over the top. 
 
-I bought this 350W (29A at 12V. P = V * I) power supply. For $50. It has a built in fan, which helps with the overheating problem.
+I bought this 350W (29A at 12V. P = V * I) power supply. For $50. It has a built-in fan, which helps with the overheating problem.
 
 [https://www.superbrightleds.com/mean-well-led-switching-power-supply-lrs-se-series-100-1000w-enclosed-12v-dc-se-x-12+powercordyn-Without~Power~Cord+wattconsume-350~Watts](https://www.superbrightleds.com/mean-well-led-switching-power-supply-lrs-se-series-100-1000w-enclosed-12v-dc-se-x-12+powercordyn-Without~Power~Cord+wattconsume-350~Watts)
 
@@ -184,6 +184,6 @@ Time to load this up with plants.
 
 ![Plants and lights on angle]({{site.baseurl}}/images/plant-stand/20231230_121100.jpg)
 
-You can tell some of the succulents started to stretch for light while I worked on thisl.
+You can tell some of the succulents started to stretch for light while I worked on this.
 
 ![Plants close up]({{site.baseurl}}/images/plant-stand/20231230_121116.jpg)
