@@ -110,7 +110,7 @@ I ran out of LED strips halfway through, had to order more and wait a month for 
 
 To connect all of the shelves, I used heat shrink crimp butt connectors (hehe). By fitting two wires in each end, I created junctions of up to four directions: input, nearby shelf 1, nearby shelf 2, output.
 
-The entire assembly is wired in parallel, meaning the voltage is equal across all points. LED strips themselves are wired in parallel to a point. The solder connection points are all parallel, but the indiviual diodes are in series to drop the voltage to the correct amount. So the cut line is at 12V, but with 3 LEDs per cut section, each LED recieves 4V (looks like there's a resistor too).
+The entire assembly is wired in parallel, meaning the voltage is equal across all points. LED strips themselves are wired in parallel to a point. The solder connection points are all parallel, but the individual diodes are in series to drop the voltage to the correct amount. So the cut line is at 12V, but with 3 LEDs per cut section, each LED recieves 4V (looks like there's a resistor too).
 
 ![Wiring harness junction]({{site.baseurl}}/images/plant-stand/20231229_142023.jpg)
 
