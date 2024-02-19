@@ -89,8 +89,45 @@ The hot glue actually went pretty well. I ran a bead down the entire line and pu
 
 After a few months, I see one strip halfway off that I need to fix. Better success rate than the adhesive strips.
 
-
 ## Wiring
+
+The bulk of the work. I couln't think of a better way than running strips down the thin shelf slats and soldering them together.
+
+The process was a bit of assembly line work, cutting wires, cutting and de-soldering LED strips, stripping (the wire, not the clothes), tinning, and soldering together. I basically made a wiring harness for each shelf based on standard dimensions, then attached.
+
+Positive to positive, negative to negative. Over and over. Tedious.
+
+![Led strips attached, one shelf]({{site.baseurl}}images/plant-stand/20231217_140816.jpg)
+
+Proof of concept, one shelf.
+
+![One shelf LEDs done]({{site.baseurl}}images/plant-stand/20231217_140800.jpg)
+
+I ran out of LED strips halfway through, had to order more and wait a month for shipping from China.
+
+![Halfway done LEDs]({{site.baseurl}}images/plant-stand/20231217_201706.jpg)
+
+To connect all of the shelves, I used heat shrink crimp butt connectors (hehe). By fitting two wires in each end, I created junctions of up to four directions: input, nearby shelf 1, nearby shelf 2, output.
+
+The entire assembly is wired in parallel, meaning the voltage is equal acros all points. LED strips themselves are wired in parallel to a point. The solder connection points are all parallel, but the indiviual diodes are in series to drop the voltage to the correct amount. So the cut line is at 12V, but with 3 LEDs per cut section, each LED recieves 4V (looks like there's a resistor too).
+
+![Wiring harness junction]({{site.baseurl}}images/plant-stand/20231229_142023.jpg)
+
+Hot glue for cable management. Better than my first attempt with bent brad nails.
+
+![Hot glue cable management]({{site.baseurl}}images/plant-stand/20231229_141842.jpg)
+
+Overall, it was a lot of work.
+
+![Wiring complete]({{site.baseurl}}images/plant-stand/20231229_141827.jpg)
+
+![Wiring complete powered on]({{site.baseurl}}images/plant-stand/20231229_141911.jpg)
+
+But I can't think of a better way to get the same clean look.
+
+![Shelf in place with lights on]({{site.baseurl}}images/plant-stand/20231230_092932.jpg)
+
+
 
 ## Power supply
 
