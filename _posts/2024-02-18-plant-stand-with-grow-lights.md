@@ -169,7 +169,7 @@ So far, this has been flawless.
 
 It's plugged into a cheap christmas light timer, so the lights automatically turn on and off.
 
-## Pictures
+# Pictures
 
 Mirror behind the shelf for more light reflection.
 
