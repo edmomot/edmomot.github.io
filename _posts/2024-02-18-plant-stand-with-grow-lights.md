@@ -139,7 +139,7 @@ I went through the five stages of cheapskate grief.
 
 ### Denial
 
-I bought a cheap power supply on amazon rated for 5 amps. The package arrived empty so that was a whole separate ordeal. I plugged it in, and it quickly overheated with only half the LEDs installed. Once overheated, the lights would flicker on and off about 2 times per second. Very annoying.
+I bought a cheap power supply on amazon rated for 5 amps. The package arrived empty so that was a whole separate ordeal. Once I actually got the item, I plugged it in, and it quickly overheated with only half the LEDs installed. Once overheated, the lights would flicker on and off about 2 times per second. Very annoying.
 
 ### Anger
 
@@ -147,7 +147,7 @@ Why is this happening to me? This power supply is garbage, Amazon has gone way d
 
 ### Bargaining
 
-I bought another cheap power supply, this time from eBay, rated for 10 amps. This would surely work. I'm only pulling 4 amps (I measured with a multimeter). Over double the capacity should be complete overkill.
+I bought another cheap power supply, this time from eBay, rated for 10 amps. This would surely work. The multimeter says I'm only pulling 4 amps. Over double the capacity should be plenty.
 
 Nope. Overheated, but a little slower this time.
 
@@ -157,7 +157,34 @@ I may have cried.
 
 ### Acceptance
 
-So the $10 range doesn't cut it. I need to over the top. 
+So the $10 range doesn't cut it. I need to go over the top. 
 
+I bought this 350W (29A at 12V. P = V * I) power supply. For $50. It has a built in fan, which helps with the overheating problem.
+
+https://www.superbrightleds.com/mean-well-led-switching-power-supply-lrs-se-series-100-1000w-enclosed-12v-dc-se-x-12+powercordyn-Without~Power~Cord+wattconsume-350~Watts
+
+![Power supply]({{site.baseurl}}images/plant-stand/20231229_141928.jpg)
+
+So far, this has been flawless.
+
+It's plugged into a cheap christmas light timer, so the lights automatically turn on and off.
+
+## Pictures
+
+Mirror behind the shelf for more light reflection.
+
+![Mirror]({{site.baseurl}}images/plant-stand/20231229_142511.jpg)
+
+Time to load this up with plants.
+
+![Lights on]({{site.baseurl}}images/plant-stand/20231230_093003.jpg)
+
+![Plants and lights on]({{site.baseurl}}images/plant-stand/20231230_121047.jpg)
+
+![Plants and lights on angle]({{site.baseurl}}images/plant-stand/20231230_121100.jpg)
+
+You can tell some of the succulents started to stretch for light while I worked on thisl.
+
+![Plants close up]({{site.baseurl}}images/plant-stand/20231230_121116.jpg)
 
 
