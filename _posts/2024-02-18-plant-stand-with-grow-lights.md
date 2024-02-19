@@ -1,4 +1,4 @@
-My wife wanted a plant stand because our succulents had gone wild. She showed me an amazon item, and I thought, "$60? I can build that myself." So I did. It only cost $100 and took an entire weekend.
+My wife wanted a plant stand because our succulents had gone wild. She showed me an Amazon item, and I thought, "$60? I can build that myself." So I did. It only cost $100 and took an entire weekend.
 
 ## Inspiration
 
@@ -12,7 +12,7 @@ Drew up some rough plans on how to build this myself.
 
 ## Materials
 
-1x2 pine from menards. A mix of the cheaper and nicer boards. The nicer ones would be for the frame, and the cheaper would be ripped into 3 for shelf slats.
+1x2 pine from Menards. A mix of the cheaper and nicer boards. The nicer ones would be for the frame, and the cheaper would be ripped into 3 for shelf slats.
 
 ## Frame
 
@@ -54,7 +54,7 @@ I'm not Finnish, I'm Ukrainian.
 
 ## Finish
 
-Used minwax paste wax, applied with a rag before assembly. Tough to get into all of the corners. Applying finish before gluing the shelves together might have been easier, but I don't think the glue would hold.
+Used Minwax paste wax, applied with a rag before assembly. Tough to get into all of the corners. Applying finish before gluing the shelves together might have been easier, but I don't think the glue would hold.
 
 ![Completed shelf]({{site.baseurl}}/images/plant-stand/20231007_211957.jpg)
 
@@ -138,7 +138,7 @@ I went through the five stages of cheapskate grief.
 
 ### Denial
 
-I bought a cheap power supply on amazon rated for 5 amps. The package arrived empty so that was a whole separate ordeal. Once I actually got the item, I plugged it in, and it quickly overheated with only half the LEDs installed. Once overheated, the lights would flicker on and off about 2 times per second. Very annoying.
+I bought a cheap power supply on Amazon rated for 5 amps. The package arrived empty so that was a whole separate ordeal. Once I actually got the item, I plugged it in, and it quickly overheated with only half the LEDs installed. Once overheated, the lights would flicker on and off about 2 times per second. Very annoying.
 
 ### Anger
 
