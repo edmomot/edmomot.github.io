@@ -90,7 +90,7 @@ After a few months, I see one strip halfway off that I need to fix. Better succe
 
 ## Wiring
 
-The bulk of the work. I couln't think of a better way than running strips down the thin shelf slats and soldering them together.
+The bulk of the work. I couldn't think of a better way than running strips down the thin shelf slats and soldering them together.
 
 The process was a bit of assembly line work, cutting wires, cutting and de-soldering LED strips, stripping (the wire, not the clothes), tinning, and soldering together. I basically made a wiring harness for each shelf based on standard dimensions, then attached.
 
