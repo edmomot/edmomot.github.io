@@ -185,5 +185,3 @@ Time to load this up with plants.
 You can tell some of the succulents started to stretch for light while I worked on thisl.
 
 ![Plants close up]({{site.baseurl}}images/plant-stand/20231230_121116.jpg)
-
-
