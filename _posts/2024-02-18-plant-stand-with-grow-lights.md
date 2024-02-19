@@ -2,8 +2,7 @@ My wife wanted a plant stand because our succulents had gone wild. She showed me
 
 ## Inspiration
 
-Something like this:
-https://www.amazon.com/ROSSNY-Bamboo-Outdoor-Multiple-Planter/dp/B08TH15BDH
+Something like this: [https://www.amazon.com/ROSSNY-Bamboo-Outdoor-Multiple-Planter/dp/B08TH15BDH](https://www.amazon.com/ROSSNY-Bamboo-Outdoor-Multiple-Planter/dp/B08TH15BDH)
 
 The original idea was to buy two and have them in the window corner at right angles. The gaps on the shelves were a bit too wide, and too much space between the shelves for succulents.
 
@@ -71,7 +70,7 @@ Grow lights aren't anything special. Purple lights only emit red and blue. There
 
 I just wanted the brightest lights per dollar, and to make it look good on the shelf. Aliexpress LED strips are what I settled on.
 
-https://www.aliexpress.us/item/2251832514287343.html
+[https://www.aliexpress.us/item/2251832514287343.html](https://www.aliexpress.us/item/2251832514287343.html)
 
 5630 5M IP30 WW
 
@@ -81,7 +80,7 @@ $10 for 5 meters. I bought too few, so I had to place a second order halfway thr
 
 I started the project by using included adhesive backing. This was a mistake. The adhesive was nowhere near strong enough, and about half of the strips started falling off within two weeks.
 
-My next attempt was hot glue. I needed a hot glue gun for another project anyway. After a couple hours watching youtube reviews I bought the big one from harbor freight: https://www.harborfreight.com/high-temperature-full-size-glue-gun-68334.html
+My next attempt was hot glue. I needed a hot glue gun for another project anyway. After a couple hours watching youtube reviews I bought the big one from harbor freight: [https://www.harborfreight.com/high-temperature-full-size-glue-gun-68334.html](https://www.harborfreight.com/high-temperature-full-size-glue-gun-68334.html)
 
 If it breaks, then I'll consider the nicer ones.
 
@@ -161,7 +160,7 @@ So the $10 range doesn't cut it. I need to go over the top.
 
 I bought this 350W (29A at 12V. P = V * I) power supply. For $50. It has a built in fan, which helps with the overheating problem.
 
-https://www.superbrightleds.com/mean-well-led-switching-power-supply-lrs-se-series-100-1000w-enclosed-12v-dc-se-x-12+powercordyn-Without~Power~Cord+wattconsume-350~Watts
+[https://www.superbrightleds.com/mean-well-led-switching-power-supply-lrs-se-series-100-1000w-enclosed-12v-dc-se-x-12+powercordyn-Without~Power~Cord+wattconsume-350~Watts](https://www.superbrightleds.com/mean-well-led-switching-power-supply-lrs-se-series-100-1000w-enclosed-12v-dc-se-x-12+powercordyn-Without~Power~Cord+wattconsume-350~Watts)
 
 ![Power supply]({{site.baseurl}}images/plant-stand/20231229_141928.jpg)
 
