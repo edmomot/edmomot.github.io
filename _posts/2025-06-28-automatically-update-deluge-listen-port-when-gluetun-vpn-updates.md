@@ -150,3 +150,7 @@ WantedBy=multi-user.target
 
 `sudo journalctl -u deluge-port-watcher`
 
+# Test
+
+Manually change the forwarded port file to an arbitrary value. Confirm the change took effect in the Deluge UI, then change it back.
+
