@@ -1,7 +1,4 @@
-
-# Summary
-
-Create a systemd service that automatically updates Deluge's Listen Port when the forward port changes on my vpn connection container.
+This post details how to create a systemd service that automatically updates Deluge's Listen Port when the forwarded port changes on a gluetun vpn connection container.
 
 # Background
 
