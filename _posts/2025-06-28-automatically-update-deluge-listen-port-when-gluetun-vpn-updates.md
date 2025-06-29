@@ -13,7 +13,7 @@ Deluge uses the vpn container as its network.
 
 When the VPN connection periodically changes to a new address, the forwarded port also changes.
 
-Gluetun helpfully exposes the port via the file `/home/ed/protonvpn/tmp/forwarded_port`
+Gluetun helpfully exposes the port via the file `/home/MY_HOME/protonvpn/tmp/forwarded_port`
 
 We can watch this file for changes and use deluge console to update the `Incoming Port` setting.
 
@@ -31,8 +31,8 @@ services:
       - TZ=Etc/UTC
       - DELUGE_LOGLEVEL=error #optional
     volumes:
-      - /home/ed/deluge/config:/config
-      - /mnt/raid/media/torrents:/torrents
+      - /home/MY_HOME/deluge/config:/config
+      - /MY_TORRENTS:/torrents
     network_mode: "container:gluetun"
     restart: unless-stopped
     # Port forwarding is configured in protonvpn / gluetun container
@@ -65,3 +65,62 @@ services:
       - /home/MY_USER/protonvpn/tmp:/tmp/gluetun
     restart: unless-stopped
 ```
+
+# Test changing deluge setting
+`docker exec -i deluge deluge-console -c /config "config --set listen_ports (50000, 50000)"`
+
+
+# Setup
+
+## Install file watcher
+`sudo apt install inotify-tools`
+
+## Create the `deluge-port-watcher.sh` script
+
+In `/home/MY_HOME/deluge-port-watcher/deluge-port-watcher.sh`
+
+```
+#!/bin/bash
+
+PORTFILE="/home/MY_HOME/protonvpn/tmp/forwarded_port"
+
+inotifywait -m -e modify "$PORTFILE" | \
+while read path action file; do
+  port=$(cat "$PORTFILE")
+  logger -t deluge-port-watcher "Port file changed, updating Deluge listen port to $port"
+  docker exec -i deluge deluge-console -c /config "config --set listen_ports ($port, $port)"
+done
+```
+
+Make sure this file uses unix-style line endings
+
+## Make the script executable
+`sudo chmod +x /home/MY_HOME/deluge-port-watcher/deluge-port-watcher.sh`
+
+## Create systemd service
+
+Create this file `/etc/systemd/system/deluge-port-watcher.service`
+
+```
+[Unit]
+Description=Deluge Port Watcher
+After=docker.service
+
+[Service]
+Type=simple
+ExecStart=/home/MY_HOME/deluge-port-watcher/deluge-port-watcher.sh
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+```
+
+# Reload and start the service
+
+`sudo systemctl daemon-reload`
+`sudo systemctl enable --now deluge-port-watcher`
+
+# Watch logs
+
+`sudo journalctl -u deluge-port-watcher`
+
