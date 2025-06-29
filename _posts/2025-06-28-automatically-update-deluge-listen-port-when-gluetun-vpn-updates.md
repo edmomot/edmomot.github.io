@@ -67,12 +67,38 @@ services:
 ```
 
 # Test changing deluge setting
+
 `docker exec -i deluge deluge-console -c /config "config --set listen_ports (50000, 50000)"`
 
+# Problems encountered with the deluge console command
+
+## Config directory not set, permissions error
+
+The `-c /config` directory setting must match the deluge docker config volume mapping. Otherwise there is a permissions error.
+
+```
+Could not connect to daemon: 127.0.0.1:58846
+ Password does not match
+```
+
+Opening the interactive deluge-console command lists only a localclient connection, not the full list of connections I have configured.
+
+## Listen_ports incorrect format, set to first character of port specified
+
+Using this incorrect command:
+
+`docker exec -i deluge deluge-console -c /config "config --set listen_ports 50000 50000"`
+
+I got a message like this:
+
+`Setting "listen_ports" to: ('9', '9', '9', '9', '9', ' ', '9', '9', '9', '9', '9')`
+
+The port argument was interpeted as an array of characters. The correct format is to wrap in parentheses and comma-separate. `(1234, 1234)` instead of `1234 1234`.
 
 # Setup
 
 ## Install file watcher
+
 `sudo apt install inotify-tools`
 
 ## Create the `deluge-port-watcher.sh` script
