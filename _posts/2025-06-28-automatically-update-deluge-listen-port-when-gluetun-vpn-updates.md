@@ -90,7 +90,7 @@ I got a message like this:
 
 `Setting "listen_ports" to: ('9', '9', '9', '9', '9', ' ', '9', '9', '9', '9', '9')`
 
-The port argument was interpeted as an array of characters. The correct format is to wrap in parentheses and comma-separate. `(1234, 1234)` instead of `1234 1234`.
+The port argument was interpreted as an array of characters. The correct format is to wrap in parentheses and comma-separate. `(1234, 1234)` instead of `1234 1234`.
 
 # Setup
 
