@@ -106,12 +106,30 @@ In `/home/MY_HOME/deluge-port-watcher/deluge-port-watcher.sh`
 #!/bin/bash
 
 PORTFILE="/home/MY_HOME/protonvpn/tmp/forwarded_port"
+PORTDIR="$(dirname "$PORTFILE")"
+PORTNAME="$(basename "$PORTFILE")"
 
-inotifywait -m -e modify "$PORTFILE" | \
-while read path action file; do
-  port=$(cat "$PORTFILE")
-  logger -t deluge-port-watcher "Port file changed, updating Deluge listen port to $port"
-  docker exec -i deluge deluge-console -c /config "config --set listen_ports ($port, $port)"
+update_port() {
+  if [[ -f "$PORTFILE" ]]; then
+    port=$(cat "$PORTFILE")
+    logger -t deluge-port-watcher "Setting Deluge listen port to $port"
+    docker exec -i deluge deluge-console -c /config "config --set listen_ports ($port, $port)"
+  else
+    logger -t deluge-port-watcher "Port file missing: $PORTFILE"
+  fi
+}
+
+# Update Deluge on startup
+update_port
+
+# Watch parent directory for changes to our port file. This is required because docker moves
+# the file instead of updating it in place. So we watch the parent directory and make
+# the update only if the event is for the file we care about.
+inotifywait -m -e close_write,move,create "$PORTDIR" | \
+while read -r directory events filename; do
+  if [[ "$filename" == "$PORTNAME" ]]; then
+    update_port
+  fi
 done
 ```
 
@@ -141,6 +159,7 @@ WantedBy=multi-user.target
 # Reload and start the service
 
 `sudo systemctl daemon-reload`
+
 `sudo systemctl enable --now deluge-port-watcher`
 
 # Watch logs
@@ -150,4 +169,3 @@ WantedBy=multi-user.target
 # Test
 
 Manually change the forwarded port file to an arbitrary value. Confirm the change took effect in the Deluge UI, then change it back.
-
