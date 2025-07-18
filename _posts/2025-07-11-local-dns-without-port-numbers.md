@@ -54,6 +54,13 @@ This document describes my setup for local DNS resolution and reverse proxy to g
 Create file `/etc/dnsmasq.d/internal.conf` with these contents
 
 ```
+# Bind only to the interfaces where the listed listen-address is assigned, and handle changes dynamically
+bind-dynamic
+
+# Listen for DNS queries only on this IP
+# Needed for the DNS server to reply to requests from the VPN subnet
+listen-address=10.1.1.2
+
 # Forward unknown .internal queries to Unifi router
 server=/internal/10.1.1.1
 
@@ -140,7 +147,7 @@ http:
         - 127.0.0.1
 ```
 
-# Using .internal for hostname mapping for other network devices
+# Let my router use .internal for other network devices
 
 For consistency, I want my router to use `.internal` for automatic hostname based URLs. E.g. `my_desktop.internal` should automatically work with any device that joins the network.
 
@@ -149,4 +156,16 @@ Using a wildcard in the dnsmasq config prevents this from working.
 Instead, each device needs to be manually mapped, with an explicit fallback to the router's IP address, where it can respond with the automatic hostname mapping.
 
 The downside is that two places must change when adding a new service to the config: caddy and DNS config. I'm sure this can be automated, but odds are low that this will happen often.
+
+# VPN
+
+My router runs a wireguard vpn server that lets me access my network remotely.
+
+I had a lot of trouble getting DNS to resolve over the VPN connection.
+
+Ultimately, the key parts were:
+
+* Specify the DNS address in the browser's config as 10.1.1.2. This is exported in the client config file and tells the client where to send DNS requests. Do not specify a second address because the client apparently only chooses one, instead of using the second address as a fallback.
+* Make sure the DNS server replies to the VPN subnet with `bind-dynamic` and `listen-address=10.1.1.2` in dnsmasq config.
+
 
