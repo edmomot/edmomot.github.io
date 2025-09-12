@@ -1,14 +1,14 @@
-During our major kitchen remodel, my wife and I wanted to add bright under cabinet lights. We paid for a majority of the remodel, but there were some parts I wanted to do myself, like these lights, flooring, and floating shelves. The install took some research and planning, but we are happy with the results. This post describes the process and technical install details.
+During our major kitchen remodel, my wife and I wanted to add bright under-cabinet lights. We paid for a majority of the remodel, but there were some parts I wanted to do myself, like these lights, flooring, and floating shelves. The install took some research and planning, but we are happy with the results. This post describes the process and technical installation details.
 
-![Under cabinet lights from below](/images/under-cabinet-lights/12-20250212-200636-23.jpg)
+![Under-cabinet lights from below](/images/under-cabinet-lights/12-20250212-200636-23.jpg)
 
 # Priorities
 
 1. Dimmable
 1. Control dimming and on/off with wall switch. I want easy access while in the kitchen without pulling the phone out.
-1. Control dimming and on/off with home assistant. I want to turn the lights down from the living room when playing a movie.
+1. Control dimming and on/off with Home Assistant. I want to turn the lights down from the living room when playing a movie.
 1. Bright. I want light that's useful for working on the counter, not just an accent.
-1. Even, soft light, minimal "dots", color matched.
+1. Even, soft light, minimal dots, color matched.
 
 # Dimmable LED configuration options
 
@@ -22,29 +22,29 @@ Pros
 * RGB control
 
 Cons
-* Dimming must be done through an app
+* Dimming must be done through an app.
 * A simple wall switch doesn't work well. When switched off, the lights can't be turned on via app. Need a smarter switch that works with the LED controller.
 
-## Constant color LEDs
+## Constant-color LEDs
 
 ![Constant color dimmer option](/images/under-cabinet-lights/dimmer-options-constant-color.png)
 
 A/C power -> smart dimmer switch (wifi module here) -> dimmable power supply -> DC power
 
 Pros:
-* modular components
-* brigher light
+* Modular components
+* Brighter light
 
 Cons:
 * No RGB control, single color
 
 ## My decision
 
-Constant color LEDs. I care more about the wall switch control than RGB LEDs. The custom colors are probably fun to play with for the first week, then get left alone. The modularity is a plus. If anything fails, I can swap that part independently, and I'm not tied to a company that could be out of business.
+Constant-color LEDs. I care more about the wall switch control than RGB LEDs. The custom colors are probably fun to play with for the first week, then get left alone. The modularity is a plus. If anything fails, I can swap that part independently, and I'm not tied to a company that could be out of business.
 
 # Running wires
 
-Before the drywall was patched and cabinets were installed, I needed to run wires to every cabinet from one central location. To do this, I used 16 gauge landscape wire. This was a cheaper option than other wires I found, and the thick sheath is a positive in this application. Copper is copper.
+Before the drywall was patched and cabinets were installed, I needed to run wires to every cabinet from one central location. To do this, I used 16-gauge landscape wire. This was a cheaper option than other wires I found, and the thick sheath is a positive in this application. Copper is copper.
 
 [Menards 16 Gauge Landscape Wire](https://www.menards.com/main/electrical/electrical-wire-cable/outdoor-electrical-cable/southwire-reg-black-low-voltage-landscape-lighting-cable/55213143/p-1479453570318-c-1525874617504.htm)
 
@@ -58,7 +58,7 @@ Luckily I already had flat can lights installed, so I popped those out and used 
 
 ![Pulling wire](/images/under-cabinet-lights/IMG20241106191320.jpg)
 
-At this point, some [glow in the dare fish tape](https://www.homedepot.com/p/Milwaukee-20-ft-Glow-Fish-Tape-48-22-4182/327567743) would have helped a ton, but I didn't have the tool for this project. In hindsight, the fish tape would have made this process smoother.
+At this point, some [glow-in-the-dark fish tape](https://www.homedepot.com/p/Milwaukee-20-ft-Glow-Fish-Tape-48-22-4182/327567743) would have helped, but I only ended up buying this for a future project. In hindsight, the fish tape would have made this process smoother.
 
 I measured and marked the exit holes carefully to make sure they aligned with the narrow recess at the bottom of the cabinets.
 
@@ -72,7 +72,7 @@ I didn't do this part, but I did have to work around schedules, so I was up late
 
 For the large open hole where the pantry was removed, I marked the wire exit locations, taped the wire into a loop and marked it, and talked to the drywall crew to make sure the wires popped out in the right place.
 
-Cabinets were drilled on the bottom, wires passed through, then mounted.
+Cabinets were drilled on the bottom, wires passed through, and then mounted.
 
 # Power supply install
 
@@ -98,7 +98,7 @@ It looks like the options for the listing have changed, but here are some simila
 * [https://www.aliexpress.us/item/3256807401475378.html](https://www.aliexpress.us/item/3256807401475378.html)
 * [https://www.aliexpress.us/item/2255800326752382.html](https://www.aliexpress.us/item/2255800326752382.html)
 
-I mostly used Aliexpress because it's hard to find LED strips at a reasonable price without a cheap built in controller.
+I mostly used Aliexpress because it's hard to find LED strips at a reasonable price without a cheap built-in controller.
 
 # LED strip install
 
@@ -132,15 +132,15 @@ I measured and cut the LED strips to fit in the channel, soldered some wire tail
 
 # Color Matching
 
-After installing everything, I noticed a different color hue between the kitchen lights and the under cabinet LEDs. The cabinet lights were more magenta than the rest of the kitchen.
+After installing everything, I noticed a different color hue between the kitchen lights and the under-cabinet LEDs. The cabinet lights were more magenta than the rest of the kitchen.
 
 I have already solved this problem  when installing different model can lights in the living room and kitchen.
 
-Ths solution is to add some green to the lights. Photography and videography use gels to shift color balance. In my case, I needed some light green.
+The solution is to add some green to the lights. Photography and videography use gels to shift color balance. In my case, I needed some light green.
 
 [BHPhotoVideo green filter gel](https://www.bhphotovideo.com/c/product/166314-REG/Gam_GC1589_1_8_Plus_Green_Cine.html)
 
-I cut this into 1/8" strips after experimenting on the amount of green I needed to add. Then attached these to the plastic covers of the LED channels with a bit of tape, and I got consistent color throughout the kitchen.
+I cut this into 1/8" strips after experimenting on the amount of green I needed to add. Then I attached these to the plastic covers of the LED channels with a bit of tape, and I got consistent color throughout the kitchen.
 
 # End result
 
