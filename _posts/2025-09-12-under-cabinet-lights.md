@@ -64,7 +64,7 @@ I measured and marked the exit holes carefully to make sure they aligned with th
 
 # Wiring diagram
 
-![Wiring diagram](/images/under-cabinet-lights/wiring-diagram.pn)
+![Wiring diagram](/images/under-cabinet-lights/wiring-diagram.png)
 
 # Drywall and cabinets
 
