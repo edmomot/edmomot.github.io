@@ -1,6 +1,6 @@
 During our major kitchen remodel, my wife and I wanted to add bright under cabinet lights. We paid for a majority of the remodel, but there were some parts I wanted to do myself, like these lights, flooring, and floating shelves. The install took some research and planning, but we are happy with the results. This post describes the process and technical install details.
 
-![Under cabinet lights from below](images/under-cabinet-lights/12-20250212-200636-23.jpg)
+![Under cabinet lights from below](/images/under-cabinet-lights/12-20250212-200636-23.jpg)
 
 # Priorities
 
@@ -14,8 +14,7 @@ During our major kitchen remodel, my wife and I wanted to add bright under cabin
 
 ## RGB LEDs
 
-DIAGRAM HERE
-
+![RGB dimmer option](/images/under-cabinet-lights/dimmer-options-rgb.png)
 
 A/C power -> control (wifi module here) -> DC power / individually addressable DC
 
@@ -28,8 +27,7 @@ Cons
 
 ## Constant color LEDs
 
-DIAGRAM HERE
-
+![Constant color dimmer option](/images/under-cabinet-lights/dimmer-options-constant-color.png)
 
 A/C power -> smart dimmer switch (wifi module here) -> dimmable power supply -> DC power
 
@@ -54,9 +52,11 @@ Some drywall was open for other electrical, but I had to cut a few holes to get 
 
 Getting from the wall into the ceiling was a mystery to me at the start, but notching out the drywall worked in this case since this is low voltage. I had to do this twice. Two wires from the power supply, with one of them coming down at another notch, and another through an already open hole where the pantry was removed. Two of these thick sheath wires were pushing the capacity of the notch, but it worked.
 
-DIAGRAM HERE
+![Drywall notch profile and instructions](/images/under-cabinet-lights/drywall-notch.png)
 
 Luckily I already had flat can lights installed, so I popped those out and used the holes to help pull the wire through. Also working in my favor were the open joists that saved a lot of hassle running perpendicular.
+
+![Pulling wire](/images/under-cabinet-lights/IMG20241106191320.jpg)
 
 At this point, some [glow in the dare fish tape](https://www.homedepot.com/p/Milwaukee-20-ft-Glow-Fish-Tape-48-22-4182/327567743) would have helped a ton, but I didn't have the tool for this project. In hindsight, the fish tape would have made this process smoother.
 
@@ -82,7 +82,7 @@ I used a terminal block with connecting strips to make the wiring neater from th
 
 [Amazon Terminal Block](https://www.amazon.com/dp/B08ZXH6768)
 
-PICTURE HERE
+![Power supply and terminal block installed](/images/under-cabinet-lights/IMG20250113164913.jpg)
 
 # LED strip purchase
 
@@ -109,6 +109,19 @@ I went with the hunhun channels here. They had *almost* enough hardware for the 
 
 I used a miter saw to cut the channels and plastic covers to length. I needed some notches on the sides for the pieces I used to hide the wires. I also used the miter saw for the aluminum channels. The plastic covers had a tendency to explode, so I used a dremel there.
 
+![Miter saw](/images/under-cabinet-lights/IMG20250108195451.jpg)
+
+![Notch in LED channel](/images/under-cabinet-lights/IMG20250108195506.jpg)
+
+![Channels installed empty](/images/under-cabinet-lights/IMG20250108195721.jpg)
+
+![Channel passthough for wires](images/under-cabinet-lights/IMG20250108195741.jpg)
+
+![Channel passthough for wires under](images/under-cabinet-lights/IMG20250108195814.jpg)
+
+![LED strips adhered with tails soldered](images/under-cabinet-lights/IMG20250108210301.jpg)
+
+
 To connect the strips to the power source, I used a mix of soldering and heat shrink crimp connectors. Soldering is needed directly to the strips, but the crimp connectors are easier to connect two wires.
 
 I measured and cut the LED strips to fit in the channel, soldered some wire tails on, adhered to the LED channels, installed the LED channels in place, cut the wires to length, and connected to source with the heat shrink connectors.
@@ -126,3 +139,9 @@ Ths solution is to add some green to the lights. Photography and videography use
 I cut this into 1/8" strips after experimenting on the amount of green I needed to add. Then attached these to the plastic covers of the LED channels with a bit of tape, and I got consistent color throughout the kitchen.
 
 # End result
+
+
+![Right cabinet](/}images/under-cabinet-lights/IMG20250111203636.jpg)
+![Left cabinet](/images/under-cabinet-lights/IMG20250111203632.jpg)
+![Back cabinet](/images/under-cabinet-lights/IMG20250111203612.jpg)
+![Light reflection showing dots](/images/under-cabinet-lights/IMG20250111204146.jpg)
