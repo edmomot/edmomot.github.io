@@ -62,6 +62,10 @@ At this point, some [glow in the dare fish tape](https://www.homedepot.com/p/Mil
 
 I measured and marked the exit holes carefully to make sure they aligned with the narrow recess at the bottom of the cabinets.
 
+# Wiring diagram
+
+![Wiring diagram](/images/under-cabinet-lights/wiring-diagram.pn)
+
 # Drywall and cabinets
 
 I didn't do this part, but I did have to work around schedules, so I was up late pulling wire through before the drywall was patched the next day.
