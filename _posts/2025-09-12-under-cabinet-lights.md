@@ -1,5 +1,7 @@
 During our major kitchen remodel, my wife and I wanted to add bright under cabinet lights. We paid for a majority of the remodel, but there were some parts I wanted to do myself, like these lights, flooring, and floating shelves. The install took some research and planning, but we are happy with the results. This post describes the process and technical install details.
 
+![Under cabinet lights from below]({{site.baseurl}}images/under-cabinet-lights/12-20250212-200636-23.jpg)
+
 # Priorities
 
 1. Dimmable
@@ -13,6 +15,7 @@ During our major kitchen remodel, my wife and I wanted to add bright under cabin
 ## RGB LEDs
 
 DIAGRAM HERE
+
 
 A/C power -> control (wifi module here) -> DC power / individually addressable DC
 
@@ -123,4 +126,3 @@ Ths solution is to add some green to the lights. Photography and videography use
 I cut this into 1/8" strips after experimenting on the amount of green I needed to add. Then attached these to the plastic covers of the LED channels with a bit of tape, and I got consistent color throughout the kitchen.
 
 # End result
-
