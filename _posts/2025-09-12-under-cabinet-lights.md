@@ -94,7 +94,7 @@ I bought some 24V LED strips from Aliexpress. Full description from my purchase:
 
 High CRI 95 RGB+CCT 24V RGBW RGBWW White Warm White LED Strips
 
-Similar items from the same store
+It looks like the options for the listing have changed, but here are some similar items from the same store
 * [https://www.aliexpress.us/item/3256807401475378.html](https://www.aliexpress.us/item/3256807401475378.html)
 * [https://www.aliexpress.us/item/2255800326752382.html](https://www.aliexpress.us/item/2255800326752382.html)
 
@@ -119,11 +119,11 @@ I used a miter saw to cut the channels and plastic covers to length. I needed so
 
 ![Channels installed empty](/images/under-cabinet-lights/IMG20250108195721.jpg)
 
-![Channel passthough for wires](images/under-cabinet-lights/IMG20250108195741.jpg)
+![Channel passthough for wires](/images/under-cabinet-lights/IMG20250108195741.jpg)
 
-![Channel passthough for wires under](images/under-cabinet-lights/IMG20250108195814.jpg)
+![Channel passthough for wires under](/images/under-cabinet-lights/IMG20250108195814.jpg)
 
-![LED strips adhered with tails soldered](images/under-cabinet-lights/IMG20250108210301.jpg)
+![LED strips adhered with tails soldered](/images/under-cabinet-lights/IMG20250108210301.jpg)
 
 
 To connect the strips to the power source, I used a mix of soldering and heat shrink crimp connectors. Soldering is needed directly to the strips, but the crimp connectors are easier to connect two wires.
@@ -144,8 +144,11 @@ I cut this into 1/8" strips after experimenting on the amount of green I needed 
 
 # End result
 
-
-![Right cabinet](/}images/under-cabinet-lights/IMG20250111203636.jpg)
+![Full kitchen](/images/under-cabinet-lights/42-20250212-201736-60.jpg)
+![Stove](/images/under-cabinet-lights/12-20250212-200636-23.jpg)
+![With appliances](/images/under-cabinet-lights/16-20250212-200836-28.jpg)
+![Right cabinet](/images/under-cabinet-lights/IMG20250111203636.jpg)
 ![Left cabinet](/images/under-cabinet-lights/IMG20250111203632.jpg)
 ![Back cabinet](/images/under-cabinet-lights/IMG20250111203612.jpg)
 ![Light reflection showing dots](/images/under-cabinet-lights/IMG20250111204146.jpg)
+
