@@ -12,6 +12,8 @@ During our major kitchen remodel, my wife and I wanted to add bright under-cabin
 
 # Dimmable LED configuration options
 
+After a deep dive on LED lighting, it became clear that there were two major options with their own pros/cons. There was no way to get everything I wanted because of techincal limitations.
+
 ## RGB LEDs
 
 ![RGB dimmer option](/images/under-cabinet-lights/dimmer-options-rgb.png)
