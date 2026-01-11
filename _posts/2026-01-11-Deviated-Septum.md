@@ -54,8 +54,7 @@ He had removed the crooked part of the septum, reduced the enlarged turbinates, 
 
 Splints were placed in my nose. These are flat silicone panels that compress the septum from both sides, with a tube for breathing. They are stitched in place near the end of the nostril so the stitches can be easily snipped off and the splints removed.
 
-
-IMAGE HERE
+![Nasal splints]({{site.baseurl}}/images/deviated-septum/nasal-splints.jpg)
 
 The operation itself took about 15-30 real minutes. Most of my time there was prep and recovery.
 
