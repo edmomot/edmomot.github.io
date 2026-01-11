@@ -6,7 +6,7 @@ I opted for corrective surgery, and it was absolutely worth it.
 
 The septum is the thin cartilage inside the nose that divides the left and right nostrils. A deviated septum is one that is curved to one side, restricting airflow.
 
-[This video shows the septum clearly and shows how surgery fixes it](https://www.youtube.com/watch?v=rGbDkXfKlAo)
+[This video shows the septum clearly and shows how surgery fixes it](https://www.youtube.com/watch?v=rGbDkXfKlAo){:target="_blank"}
 
 Turbinates are bony ridges inside the nose covered in soft tissue. They help warm and humidify the air coming in. They control the nasal cycle, enlarging periodically to control which nostril is being used.
 
@@ -14,7 +14,7 @@ This video shows
 
 If you cover one nostril at a time with your finger while breathing in, you may notice that one side is doing more work. This switches throughout the day.
 
-[This video at 9:09 shows how turbinates look.](https://youtu.be/8M82nl_SiMU?si=8w6h39v0TpLJXcfU&t=549)
+[This video at 9:09 shows how turbinates look.](https://youtu.be/8M82nl_SiMU?si=8w6h39v0TpLJXcfU&t=549){:target="_blank"}
 
 With a deviated septum, one side is larger and has more airflow. Turbinates on the open side enlarge in response, making breathing equally fun on both sides.
 
