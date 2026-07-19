@@ -1,6 +1,3 @@
----
-layout: blog
----
 I had four trees cut down on my property, kept the wood, and milled them with a chainsaw. It turned out to be a ton of satisfying work, and opened the door for more interesting projects.
 
 ![Tree falling from being cut down by professionals in a residential neighborhood](/images/chainsaw_milling/tree_falling.gif)
