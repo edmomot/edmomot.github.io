@@ -2,7 +2,6 @@ I had four trees cut down on my property, kept the wood, and milled them with a 
 
 ![Tree falling from being cut down by professionals in a residential neighborhood](/images/chainsaw_milling/tree_falling.gif)
 
-
 # Background
 
 My house came with three big Ash trees that were infested with Emerald Ash Borer (EAB). This is an invasive bug that eats the living part of the tree in wiggly lines that cut off flow of nutrients, causing the tree to die. I also had a Bradford Pear removed because it's just a terrible tree and [also illegal here](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/news/Planting-Callery-Pear).
@@ -57,7 +56,7 @@ With the lower setup to yield ratio, shorter logs were more annoying. I made a m
 
 ## Cutting technique
 
-Taking multiple passes to work down to the full depth worked best. This video pointed me in the right direction: [Two Chainsaw Secrets | Turning a Tree into Perfect Boards](https://www.youtube.com/watch?v=8qz64ELkxdA)
+Taking multiple passes to work down to the full depth worked best. This video pointed me in the right direction: [Two Chainsaw Secrets - Turning a Tree into Perfect Boards](https://www.youtube.com/watch?v=8qz64ELkxdA)
 
 The key realization is that the tip of the bar removes material much quicker than the flat part of the bar. When the cutting angle is just right, long curls of wood fly off the chainsaw instead of dust.
 
@@ -109,15 +108,25 @@ So far, I've made
 * Live edge framed shelf for the bathroom
 * Charcuterie board
 
+![Coffee table](/images/chainsaw-milling/20240415_225257.jpg)
+
+![Live edge floating shelves in the kitchen](/images/chainsaw-milling/IMG20250210180150.jpg)
+
 # Rewind back to milling
 
 My friend had a massive log in his front yard, also from an Ash tree. Every time I came over, I promised that next time I'd bring my chainsaw and mill it up. One day it finally happened.
+
+![Log with first slab cut](/images/chainsaw-milling/IMG20250614111127.jpg)
 
 This was the largest log I've done. My bar would definitely not make it through the full thickness. I no longer had the jig, and it sacrifices bar capacity anyway.
 
 So this time, I went freehand. We figured out the board spacing, used markers to draw lines on all edges, and I started cutting.
 
+![Lines drawn on log with markers](/images/chainsaw-milling/IMG20250614145817.jpg)
+
 This went better than expected. My hours of experience with the jig helped. I already learned from earlier mistakes, and with better technique, made it through the log in 1.5 days.
+
+![Log split into slabs](/images/chainsaw-milling/IMG20250618195014.jpg)
 
 # What I would do today
 
