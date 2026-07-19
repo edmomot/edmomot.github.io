@@ -10,7 +10,7 @@ I paid for the trees to be removed, but asked to keep long and thick sections so
 
 # Step 1: Get a chainsaw
 
-I bought a Stihl MS 250 because I needed to do a lot of cutting and battery power wouln't last all day. So I picked the chainsaw with a good reputation, available locally, with the longest bar that didn't cost over a grand.
+I bought a Stihl MS 250 because I needed to do a lot of cutting and battery power wouldn't last all day. So I chose the chainsaw with a good reputation, available locally, with the longest bar that didn't cost over a grand.
 
 # Step 2: Buy a jig
 
@@ -38,7 +38,7 @@ With the lower setup to yield ratio, shorter logs were more annoying. I made a m
 
 Taking multiple passes to work down to the full depth worked best. This video pointed me in the right direction: [Two Chainsaw Secrets | Turning a Tree into Perfect Boards](https://www.youtube.com/watch?v=8qz64ELkxdA)
 
-The key realization is that the tip of the bar removes material much quicker than flat part of the bar. When the cutting angle is just right, long curls of wood fly off the chainsaw instead of dust.
+The key realization is that the tip of the bar removes material much quicker than the flat part of the bar. When the cutting angle is just right, long curls of wood fly off the chainsaw instead of dust.
 
 I haven't tried yet, but I think it would also help to file down the rakers to get a deeper cut.
 
@@ -46,9 +46,9 @@ With this style of chainsaw mill, the biggest source of inaccuracy is from left-
 
 Towards the end of cutting the board, the left-right wobble impacts how consistent the thickness of the board is.
 
-Taking a cut off the right side of the log, with my body to the left of the log, with the chainsaw pointing down, the chainsaw wants to tilt counterclockwise. The right side is heavier because of the bar. This means, as the chainsaw drops, it wants to wander into the log. If the amount of wander is inconsistent between cuts, you end up with angled board, one edge thicker than the other.
+Taking a cut off the right side of the log, with my body to the left of the log, with the chainsaw pointing down, the chainsaw wants to tilt counterclockwise. The right side is heavier because of the bar. This means, as the chainsaw drops, it wants to wander into the log. If the amount of wander is inconsistent between cuts, you end up with an angled board, one edge thicker than the other.
 
-To counteract all of this, it takes some practice and understanding. My best advice is to take light passes, use a consistent grip, and check progress often.
+To counteract all this, it takes some practice and understanding. My best advice is to take light passes, use a consistent grip, and check progress often.
 
 ## Sharpening
 
@@ -72,9 +72,9 @@ So far, I've made
 
 # Rewind back to milling
 
-My friend had a massive log in his front yard, also from an Ash tree. Every time I came over, I promise that next time I'd bring my chainsaw and mill it up. One day it finally happened.
+My friend had a massive log in his front yard, also from an Ash tree. Every time I came over, I promised that next time I'd bring my chainsaw and mill it up. One day it finally happened.
 
-This was the biggest log I've done. My bar would definitely not make it through the full thickness. I no longer had the jig, and it sacrifices bar capacity anyway.
+This was the largest log I've done. My bar would definitely not make it through the full thickness. I no longer had the jig, and it sacrifices bar capacity anyway.
 
 So this time, I went freehand. We figured out the board spacing, used markers to draw lines on all edges, and I started cutting.
 
@@ -96,8 +96,6 @@ Smaller logs, I'd buy a bandsaw and mill them with a jig.
 
 # Conclusion
 
-Chainsaw milling is a ton of hard work, but very satisfying. Splitting a log open and seeing its potential is an awesome moment. It's a project in itself, but opens up dozens of future projects with their own opporunities to learn and build.
+Chainsaw milling is a ton of hard work, but very satisfying. Splitting a log open and seeing its potential is an awesome moment. It's a project in itself, but opens up dozens of future projects with their own opportunities to learn and build.
 
 And of course the end results tell a great farm-to-table kind of story. I love that I can connect the kitchen shelves to the tree that grew on this property for 20 years.
-
-
