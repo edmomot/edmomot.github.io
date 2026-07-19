@@ -11,15 +11,15 @@ My house came with three big Ash trees that were infested with Emerald Ash Borer
 
 I paid for the trees to be removed, but asked to keep long and thick sections so I could mill them with a chainsaw, dry the boards, and make... stuff. I hadn't decided exactly what to make, but I've never been short of project ideas so I was unconcerned.
 
-![Logs stacked facing sun]({{site.baseurl}}/images/chainsaw-milling/20210929_175505_HDR.jpg)
+![Logs stacked facing sun](/images/chainsaw-milling/20210929_175505_HDR.jpg)
 
-![Logs stacked facing house]({{site.baseurl}}/images/chainsaw-milling/20210929_175542.jpg)
+![Logs stacked facing house](/images/chainsaw-milling/20210929_175542.jpg)
 
 # Step 1: Get a chainsaw
 
 I bought a Stihl MS 250 because I needed to do a lot of cutting and battery power wouldn't last all day. So I chose the chainsaw with a good reputation, available locally, with the longest bar that didn't cost over a grand.
 
-![Log with outside edge milled flat]({{site.baseurl}}/images/chainsaw-milling/20211001_184734.jpg)
+![Log with outside edge milled flat](/images/chainsaw-milling/20211001_184734.jpg)
 
 # Step 2: Buy a jig
 
@@ -27,7 +27,7 @@ I went with a [cheap vertical mill attachment](https://www.amazon.com/Zihvfzu-Ve
 
 Cost was the biggest factor, but I also needed to consider capacity. My chainsaw bar wasn't quite long enough to make it through the thickest logs I had, so a horizontal jig that attaches at both ends wouldn't work at all for those logs.
 
-![Chainsaw with jig on 2x6 and small log]({{site.baseurl}}/images/chainsaw-milling/20211204_151211.jpg)
+![Chainsaw with jig on 2x6 and small log](/images/chainsaw-milling/20211204_151211.jpg)
 
 # Step 3: Mill
 
@@ -37,7 +37,7 @@ For a target thickness, I found a good rule of thumb to be adding an inch to the
 
 With the thickness in mind, figure out the spacing on the log cross section. Decide whether the center is the middle of a center board or a cut line. Draw what looks like the best option on the log, then use a straight edge to see if the end boards would be worth keeping. Check this from both ends of the log, especially if one end is significantly thicker.
 
-![Jig attached to odd shaped log almost through first cut]({{site.baseurl}}/images/chainsaw-milling/20211026_174459.jpg)
+![Jig attached to odd shaped log almost through first cut](/images/chainsaw-milling/20211026_174459.jpg)
 
 This can get tricky with odd shapes.
 
@@ -47,15 +47,15 @@ Different approaches were used for setting up the jig depending on the log size.
 
 For larger, longer logs, I screwed scrap wood into the log at the ends, then attached the 2x6 to that. Each pass meant unscrewing the board and shifting it over by the thickness of the board.
 
-![Larger log jig attachment end view]({{site.baseurl}}/images/chainsaw-milling/20211026_174524_HDR.jpg)
+![Larger log jig attachment end view](/images/chainsaw-milling/20211026_174524_HDR.jpg)
 
-![Larger log jig attachment side view]({{site.baseurl}}/images/chainsaw-milling/20211026_174453.jpg)
+![Larger log jig attachment side view](/images/chainsaw-milling/20211026_174453.jpg)
 
 With the lower setup to yield ratio, shorter logs were more annoying. I made a makeshift platform that I screwed into each log. This wasn't perfect and needed to be adjusted every few logs when sizes changed significantly.
 
-![Makeshift platform side]({{site.baseurl}}/images/chainsaw-milling/20211204_150356.jpg)
+![Makeshift platform side](/images/chainsaw-milling/20211204_150356.jpg)
 
-![Makeshift platform top]({{site.baseurl}}/images/chainsaw-milling/20211204_150403.jpg)
+![Makeshift platform top](/images/chainsaw-milling/20211204_150403.jpg)
 
 ## Cutting technique
 
@@ -65,13 +65,13 @@ The key realization is that the tip of the bar removes material much quicker tha
 
 I haven't tried yet, but I think it would also help to file down the rakers to get a deeper cut.
 
-![Halfway through small log]({{site.baseurl}}/images/chainsaw-milling/20211204_152805.jpg)
+![Halfway through small log](/images/chainsaw-milling/20211204_152805.jpg)
 
 With this style of chainsaw mill, the biggest source of inaccuracy is from left-to-right wobble. This shows up in the first pass with the direction affecting how straight the board is length wise. To add on to this problem, cutting on a steeper angle for the end of the log, the cut wants to wander down the curve, pushing the cut line away from ideal.
 
 Towards the end of cutting the board, the left-right wobble impacts how consistent the thickness of the board is.
 
-![Inconsistent thickness from tip wobble]({{site.baseurl}}/images/chainsaw-milling/20220611_150411.jpg)
+![Inconsistent thickness from tip wobble](/images/chainsaw-milling/20220611_150411.jpg)
 
 Taking a cut off the right side of the log, with my body to the left of the log, with the chainsaw pointing down, the chainsaw wants to tilt counterclockwise. The right side is heavier because of the bar. This means, as the chainsaw drops, it wants to wander into the log. If the amount of wander is inconsistent between cuts, you end up with an angled board, one edge thicker than the other.
 
@@ -89,17 +89,17 @@ The boards came out pretty good for a chainsaw. Lots of ridges and dips towards 
 
 Especially rough parts where the chainsaw couldn't get through the entire diameter and I had to freehand the rest. It'll buff out.
 
-![Boards vertical in garage]({{site.baseurl}}/images/chainsaw-milling/20211020_173832.jpg)
+![Boards vertical in garage](/images/chainsaw-milling/20211020_173832.jpg)
 
-![Boards on garage floor]({{site.baseurl}}/images/chainsaw-milling/20211002_155551.jpg)
+![Boards on garage floor](/images/chainsaw-milling/20211002_155551.jpg)
 
-![Short log split open]({{site.baseurl}}/images/chainsaw-milling/20211204_155051.jpg)
+![Short log split open](/images/chainsaw-milling/20211204_155051.jpg)
 
 # Step 4: Stacking and drying
 
 I stacked all of the board in my garage against one wall, separated with scrap wood for airflow. The cuts were nowhere even, so I needed a lot of extra scrap jammed in throughout the pile to make it more stable.
 
-![Stacked in garage]({{site.baseurl}}/images/chainsaw-milling/20230811_220309.jpg)
+![Stacked in garage](/images/chainsaw-milling/20230811_220309.jpg)
 
 Then, I left it to dry for two years.
 
