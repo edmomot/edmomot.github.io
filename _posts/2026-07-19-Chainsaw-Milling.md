@@ -112,6 +112,10 @@ So far, I've made
 
 ![Live edge floating shelves in the kitchen](/images/chainsaw-milling/IMG20250210180150.jpg)
 
+# Step 6: Profit?
+
+Hah.
+
 # Rewind back to milling
 
 My friend had a massive log in his front yard, also from an Ash tree. Every time I came over, I promised that next time I'd bring my chainsaw and mill it up. One day it finally happened.
