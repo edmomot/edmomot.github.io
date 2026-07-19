@@ -132,7 +132,7 @@ This went better than expected. My hours of experience with the jig helped. I al
 
 The jig was an okay starting point when I had little chainsaw experience. The alignment helps, but doesn't remove the need to pay attention. The weight of the saw resting on the board helps a bit with the back pain, maybe.
 
-There's a specific size log that the jig works well for. About 12-16 inches and 6-8 feet long.
+There's a specific size log that the jig works well for. About 12-16 inches in diameter and 6-8 feet long.
 
 For everything else, there's Mastercard.
 
