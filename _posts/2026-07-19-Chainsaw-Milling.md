@@ -5,6 +5,7 @@ I had four trees cut down on my property, kept the wood, and milled them with a 
 
 ![Tree falling from being cut down by professionals in a residential neighborhood](/images/chainsaw_milling/tree_falling.gif)
 
+
 # Background
 
 My house came with three big Ash trees that were infested with Emerald Ash Borer (EAB). This is an invasive bug that eats the living part of the tree in wiggly lines that cut off flow of nutrients, causing the tree to die. I also had a Bradford Pear removed because it's just a terrible tree and [also illegal here](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/news/Planting-Callery-Pear).
