@@ -12,7 +12,7 @@ During our major kitchen remodel, my wife and I wanted to add bright under-cabin
 
 # Dimmable LED configuration options
 
-After a deep dive on LED lighting, it became clear that there were two major options with their own pros/cons. There was no way to get everything I wanted because of techincal limitations.
+After a deep dive on LED lighting, it became clear that there were two major options with their own pros/cons. There was no way to get everything I wanted because of technical limitations.
 
 ## RGB LEDs
 
@@ -109,7 +109,7 @@ Aluminum channels solve a few problems
 * Clean mounting. Looks nicer than exposed strips. Hides wires.
 * Softer light. The plastic cover diffuses the points of light slightly.
 
-I went with the hunhun channels here. They had *almost* enough hardware for the entire install. If I didn't use the channels to hide wires all the way to the back of cabinets, the included harware would have been plenty. When I ran out, I cut some of the extension connectors with mixed success.
+I went with the hunhun channels here. They had *almost* enough hardware for the entire install. If I didn't use the channels to hide wires all the way to the back of cabinets, the included hardware would have been plenty. When I ran out, I cut some of the extension connectors with mixed success.
 
 [Amazon hunhun LED Aluminum Channels](https://www.amazon.com/dp/B071FRFQVZ)
 
@@ -153,4 +153,3 @@ I cut this into 1/8" strips after experimenting on the amount of green I needed 
 ![Left cabinet](/images/under-cabinet-lights/IMG20250111203632.jpg)
 ![Back cabinet](/images/under-cabinet-lights/IMG20250111203612.jpg)
 ![Light reflection showing dots](/images/under-cabinet-lights/IMG20250111204146.jpg)
-
